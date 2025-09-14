@@ -22,7 +22,7 @@ Além disso, exploro o lado criativo com **Blender 3D e VFX**, trazendo uma vis�
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert7z&layout=compact&theme=tokyonight)
 
 ---
 
