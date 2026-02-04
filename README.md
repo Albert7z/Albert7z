@@ -27,12 +27,12 @@ Além disso, exploro o lado criativo com **Blender 3D e VFX**, trazendo uma vis�
 ---
 
 ## 📂 Projetos em Destaque
+-
 - 🗂️ **File Organizer Pro** → Organizador de arquivos com interface e EXE pronto.  
-- 📊 **Dashboard de Diárias Públicas** → Visualização interativa de gastos do setor público.  
+- 📊 *Psico Connect** → Aplicação Django para psicologos com cadastro de pacientes e gerador de recibos pdf com historico.  
 - 🤖 **Twitter Bot** → Automação em Python com Selenium.  
 - 🌱 **Projetos de Automação** → Scripts para otimizar processos do dia a dia.  
 
-*(Mais projetos no meu repositório 👇)*  
 
 ---
 
@@ -40,8 +40,9 @@ Além disso, exploro o lado criativo com **Blender 3D e VFX**, trazendo uma vis�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/albertdorval)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=flat-square)](https://github.com/albert7z)
 [![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?logo=buymeacoffee&logoColor=000&style=flat-square)]([https://www.buymeacoffee.com/SEUUSUARIO](https://ko-fi.com/albert7z))
+[![Instagram](https://img.shields.io/badge/instagram-000?logo=instagram&logoColor=fff&style=flat-square)]((https://www.instagram.com/vj.zebu/))
 
 ---
 
-✨ *Aberto a colaborações, desafios e novas ideias. Vamos construir algo incrível juntos!*  
+✨ *Aberto a colaborações, desafios e novas ideias. Soluçoes tecnologicas para um mundo mais dinamico!*  
 
