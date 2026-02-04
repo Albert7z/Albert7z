@@ -1,48 +1,46 @@
-# 👋 Olá, eu sou o Albert7z
+# 👋 Olá, sou Albert Dorval
 
-💻 **Desenvolvedor Full-Stack** apaixonado por transformar ideias em soluções práticas e criativas.  
-Tenho experiência em **Python, automação de processos, DevOps e desenvolvimento de dashboards interativos**.  
-Além disso, exploro o lado criativo com **Blender 3D e VFX**, trazendo uma visão multidisciplinar para os projetos.  
+Desenvolvedor Full-Stack focado em **Python, automação e dashboards interativos**.  
+Também trabalho com **Blender 3D e VFX** para projetos criativos.
 
----
-
-## 🚀 Principais Competências
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-000?logo=azuredevops&logoColor=fff&style=flat-square)
-![Dash/Plotly](https://img.shields.io/badge/Dash%2FPlotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
-![APIs](https://img.shields.io/badge/API%20Integrations-FF6F00?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-0078D7?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=flat-square)
-![VFX](https://img.shields.io/badge/VFX-000?style=flat-square)
+Atualmente em **Florianopolis/SC**, aberto para oportunidades remotas e colaborações.
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albert7z&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albert7z&layout=compact&theme=tokyonight)
+## 🛠️ Stack Principal
+
+**Backend & Automação:** Python • Django • FastAPI • Selenium  
+**Frontend & Viz:** HTML/CSS • Dash/Plotly  
+**DevOps:** Git • Docker • CI/CD  
+**Creative:** Blender • After Effects • VFX
 
 ---
 
-## 📂 Projetos em Destaque
--
-- 🗂️ **File Organizer Pro** → Organizador de arquivos com interface e EXE pronto.  
-- 📊 *Psico Connect** → Aplicação Django para psicologos com cadastro de pacientes e gerador de recibos pdf com historico.  
-- 🤖 **Twitter Bot** → Automação em Python com Selenium.  
-- 🌱 **Projetos de Automação** → Scripts para otimizar processos do dia a dia.  
+## 🚀 Projetos Destacados
 
+### [📊 PsicoConnect](https://github.com/Albert7z/psico_connect)
+Aplicação Django para psicólogos com cadastro de pacientes e geração automática de recibos em PDF.  
+`Django` `PDF` `PostgreSQL`
+
+### [🗂️ File Organizer Pro](link-do-repo)
+Organizador inteligente de arquivos com interface gráfica e executável standalone.  
+`Python` `Tkinter` `PyInstaller`
+
+### [🤖 Twitter Bot](https://github.com/Albert7z/file_organizer_pro)
+Bot de automação para interações no Twitter usando Selenium.  
+`Python` `Selenium` `Automation`
+
+[→ Ver todos os projetos](https://github.com/albert7z?tab=repositories)
 
 ---
 
-## 🌍 Onde me encontrar
+## 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/albertdorval)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff&style=flat-square)](https://github.com/albert7z)
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?logo=buymeacoffee&logoColor=000&style=flat-square)]([https://www.buymeacoffee.com/SEUUSUARIO](https://ko-fi.com/albert7z))
-[![Instagram](https://img.shields.io/badge/instagram-000?logo=instagram&logoColor=fff&style=flat-square)]((https://www.instagram.com/vj.zebu/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)](https://github.com/albert7z)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=fff&style=flat-square)](https://ko-fi.com/albert7z)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](https://www.instagram.com/vj.zebu/)
 
 ---
 
-✨ *Aberto a colaborações, desafios e novas ideias. Soluçoes tecnologicas para um mundo mais dinamico!*  
-
+💡 *Soluções tecnológicas para um mundo mais dinâmico*
