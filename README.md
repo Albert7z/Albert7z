@@ -18,15 +18,23 @@ Atualmente em **Florianopolis/SC**, aberto para oportunidades remotas e colabora
 
 ## 🚀 Projetos Destacados
 
-### [📊 PsicoConnect](https://github.com/Albert7z/psico_connect)
-Aplicação Django para psicólogos com cadastro de pacientes e geração automática de recibos em PDF.  
-`Django` `PDF` `PostgreSQL`
+### 📊 PsicoConnect
+Sistema completo para gestão de consultórios de psicologia com:
+- Cadastro e prontuário digital de pacientes
+- Geração automática de recibos em PDF
+- Controle de sessões e histórico
+- Dashboard com métricas e relatórios
 
-### [🗂️ File Organizer Pro](link-do-repo)
+**Stack:** Django • PostgreSQL • ReportLab • Chart.js  
+**Status:** Em produção | Projeto sob NDA
+
+> 💼 Código sob sigilo comercial. Disponível para demonstração em entrevistas.
+
+### [🗂️ File Organizer Pro](https://github.com/Albert7z/file_organizer_pro)
 Organizador inteligente de arquivos com interface gráfica e executável standalone.  
 `Python` `Tkinter` `PyInstaller`
 
-### [🤖 Twitter Bot](https://github.com/Albert7z/file_organizer_pro)
+### [🤖 Twitter Bot](https://github.com/Albert7z/bot_x_gemini)
 Bot de automação para interações no Twitter usando Selenium.  
 `Python` `Selenium` `Automation`
 
